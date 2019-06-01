@@ -1,0 +1,16 @@
+== Creating a user
+
+include::{snippets}/user/http-request.adoc[]
+include::{snippets}/user/request-fields.adoc[]
+
+== Creating a story
+
+include::{snippets}/story/http-request.adoc[]
+include::{snippets}/story/request-fields.adoc[]
+
+== Creating an endorsement
+
+include::{snippets}/endorsement/http-request.adoc[]
+
+== response
+include::{snippets}/endorsement/response-fields.adoc[]
